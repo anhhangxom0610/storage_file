@@ -1,7 +1,7 @@
 {
-"account":["admin", "cnb-18-001","cnn-17-001","cnb-20-014","cnb-18-004","qvu-19-001", "CNB-20-014"
+"account":["admin", "cnb-18-001","cnn-17-001","cnb-20-014","cnb-18-004","qvu-19-001", "CNB-20-014", "qth-20-004"
             ],
- "addressAccount":            ["admin", "cnb-18-001","cnn-17-001","cnb-20-014","cnb-18-004","qvu-19-001"
+ "addressAccount":            ["admin", "cnb-18-001","cnn-17-001","cnb-20-014","cnb-18-004","qvu-19-001", "qth-20-004"
             ],
 "my247admin": ["CNB-19-028","CNB-20-013", "CNB-18-001"]
 }
